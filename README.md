@@ -1,5 +1,7 @@
 <div align="center">
+  
 # Segmentation-VGG 19
+  
 **_Submitted at [IJIT, Springer]([https://2022.midl.io/](https://www.springer.com/journal/41870))_**
   
 ---
