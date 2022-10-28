@@ -6,7 +6,7 @@
   
 ---
 
-> This repository is the official implementation of [A Novel Facial Emotion Recognition Model Using Segmentation VGG-19 Architecture]. 
+> This repository is the official implementation of 'A Novel Facial Emotion Recognition Model Using Segmentation VGG-19 Architecture'. 
 
 ## Requirements
 
@@ -41,3 +41,9 @@ Our model achieve SOTA performance on the FER2013 dataset
 | LHC-Net                     |   74.42   |
 | CNNs and BOVW + local SVM   |   75.42   |
 |**Segmentation VGG-19**      | **75.97** |
+
+## Contact
+For any queries, feel free to contact vignesh.nitt10@gmail.com.
+
+## License
+This project is open sourced under [MIT License](LICENSE).
