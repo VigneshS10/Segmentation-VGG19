@@ -2,30 +2,39 @@
   
 # Segmentation-VGG 19
   
-**_Submitted at [IJIT, Springer]([https://2022.midl.io/](https://www.springer.com/journal/41870)) (Under Review)_**
+**_Submitted at [IJIT, Springer](https://www.springer.com/journal/41870) (Under Review)_**
 
 ---
 
 <img src="assets/seg_arch.PNG">
-
-<img src="assets/seg_block_edit.PNG">
-
+  
+---
+  
 > This repository is the official implementation of 'A Novel Facial Emotion Recognition Model Using Segmentation VGG-19 Architecture'. 
-
+  
 </div align="center">
 
+## Requirements
+
+To install requirements:
+
+```setup
+pip install -r requirements.txt
+```
+
 ## Training
-1. Clone the repository
-2. Download the dataset in from this _[link]()_ and put those files in the _fer_data_ folder.
-3. Change the file directory paths from the _config_ file and the _main.py_ file.
+
+1. Clone the repository.
+2. Download the dataset in from this _[link](https://drive.google.com/drive/folders/1uK9znyGG7f56FTOQuOaBU_tov0A81Dal?usp=share_link)_ and put those files in the _fer_data_ folder.
+3. Change the path of your file directories from the _config_ file and the _main.py_ file.
 4. Run the _main.py_ file to train the network.
 
 
 ## Results
 
 Our model achieves SOTA performance on the FER2013 dataset
-
-|            Model            |Top1 Acc(%)|
+  
+|            Model            |Top 1 Acc (%)|
 |-----------------------------|-----------|
 | CNN                         |   62.44   |
 | AlexNet                     |   63.41   |
