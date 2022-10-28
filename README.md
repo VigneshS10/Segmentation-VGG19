@@ -22,12 +22,12 @@ To install requirements:
 pip install -r requirements.txt
 ```
 
-## Training
+## Training and Evaluation
 
 1. Clone the repository.
-2. Download the dataset in from this _[link](https://drive.google.com/drive/folders/1uK9znyGG7f56FTOQuOaBU_tov0A81Dal?usp=share_link)_ and put those files in the _fer_data_ folder.
+2. Download the dataset from this _[link](https://drive.google.com/drive/folders/1uK9znyGG7f56FTOQuOaBU_tov0A81Dal?usp=share_link)_ and put those files in the _fer_data_ folder.
 3. Change the path of your file directories from the _config_ file and the _main.py_ file.
-4. Run the _main.py_ file to train the network.
+4. Run the _main.py_ file to train and evaluate the network.
 
 
 ## Results
