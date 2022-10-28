@@ -10,10 +10,10 @@
   
 ---
   
-> This repository is the official implementation of 'A Novel Facial Emotion Recognition Model Using Segmentation VGG-19 Architecture'. 
-  
 </div align="center">
 
+> This repository is the official implementation of 'A Novel Facial Emotion Recognition Model Using Segmentation VGG-19 Architecture'. 
+  
 ## Requirements
 
 To install requirements:
