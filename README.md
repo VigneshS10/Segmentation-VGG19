@@ -4,7 +4,7 @@
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-novel-facial-emotion-recognition-model/facial-expression-recognition-on-fer2013)](https://paperswithcode.com/sota/facial-expression-recognition-on-fer2013?p=a-novel-facial-emotion-recognition-model)
   
-**_Published at [IJIT, Springer](https://www.springer.com/journal/41870) (Under Review)_**
+**_Published at [IJIT, Springer](https://www.springer.com/journal/41870)_**
 
 ---
 
